@@ -1,0 +1,3 @@
+pcapファイルをwiresharkで開く
+httpで絞り込んで200が返ってきているGETアクセスの詳細を確認
+Authorizationヘッダ内のCredentialsにFLAGの記載がある

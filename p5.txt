@@ -1,0 +1,16 @@
+玉ねぎのようにBase64encodeがネストされている
+10回ぐらいdecodeすると文字列が出てくる
+decodeにはこれを使う
+https://gchq.github.io/CyberChef/
+
+```
+begin 666 <data>
+51DQ!1U]&94QG4#-3:4%797I74$AU
+ 
+end
+```
+
+begin 666 とはuuencodeされたものであることを意味するらしい
+バイナリをテキスト化されたもの
+下記でdecode
+https://tool-taro.com/uudecode/
